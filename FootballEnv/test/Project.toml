@@ -1,0 +1,8 @@
+[deps]
+CoordinateTransformations = "150eb455-5306-5404-9cee-2592286d6298"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+Quaternions = "94ee1d12-ae83-5a48-8b1c-48b8ff168ae0"
+ReTestItems = "817f1d60-ba6b-4fd5-9520-3cf149f6a823"
+RxEnvironments = "5ea003d0-0c30-4e5c-84d5-cc22d8d83890"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
